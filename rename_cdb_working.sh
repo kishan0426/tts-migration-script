@@ -33,8 +33,6 @@
 #
 # Example:
 #
-#   CQABIL62,QABILC62
-#   CQAPVG63,QAPVGC63
 #
 # Usage:
 #
